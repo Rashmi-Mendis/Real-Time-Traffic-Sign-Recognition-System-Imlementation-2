@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # Real-Time-Traffic-Sign-Recognition-System-Imlementation-2
-=======
 
 <h1 align="center">
   <br>
