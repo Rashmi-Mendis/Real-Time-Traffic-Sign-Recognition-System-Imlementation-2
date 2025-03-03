@@ -34,7 +34,7 @@ This project was built using the following technologies.
 - MySQL Server Database
 - Android Studio
 
-## ** Included**
+## Included
 
 - Android Studio Project
 - MySQL Server Database File
